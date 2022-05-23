@@ -1,0 +1,3 @@
+Funcionalidades de DemoBG
+
+Escaneo de paquetes mediante la creacion de un manifiesto de monitoreo de Guia
